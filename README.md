@@ -12,13 +12,13 @@ Conheça fluxo de desenvolvimento entre ambientes SAP<br>
 ## Conteúdo Detalhado
 
 ### Introdução e setup do programa
-Introdução<br>
-Apresentação do problema<br>
+    - Introdução<br>
+    - Apresentação do problema<br>
 
 ### Criando a tela de seleção
-Criando a tela de seleção<br>
-Trabalhando com subscreen<br>
-Fechamento tela de seleção<br>
+    - Criando a tela de seleção<br>
+    - Trabalhando com subscreen<br>
+    - Fechamento tela de seleção<br>
 
 ### Inserindo o ALV
 Inicio desenvolvimento do ALV<br>
