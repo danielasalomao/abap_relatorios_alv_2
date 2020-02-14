@@ -1,13 +1,13 @@
 # Curso de ABAP parte 2: Construindo relatórios ALV no SAP
 
 
-Use dos recursos do core ABAP
-Entenda como funciona o ferramentas de desenvolvimento SAP
-Desenvolva uma aplicação SAP
-Crie um relatório module pool utilizando a linguagem ABAP
-Entenda como implementar o recurso ALV
-Entenda como funciona os elementos gráficos Dynpro
-Conheça fluxo de desenvolvimento entre ambientes SAP
+Use dos recursos do core ABAP<br>
+Entenda como funciona o ferramentas de desenvolvimento SAP<br>
+Desenvolva uma aplicação SAP<br>
+Crie um relatório module pool utilizando a linguagem ABAP<br>
+Entenda como implementar o recurso ALV<br>
+Entenda como funciona os elementos gráficos Dynpro<br>
+Conheça fluxo de desenvolvimento entre ambientes SAP<br>
 
 ## Conteúdo Detalhado
 
