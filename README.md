@@ -2,13 +2,13 @@
 
 ## Objetivo 
 
-Use dos recursos do core ABAP<br>
-Entenda como funciona o ferramentas de desenvolvimento SAP<br>
-Desenvolva uma aplicação SAP<br>
-Crie um relatório module pool utilizando a linguagem ABAP<br>
-Entenda como implementar o recurso ALV<br>
-Entenda como funciona os elementos gráficos Dynpro<br>
-Conheça fluxo de desenvolvimento entre ambientes SAP<br>
+* Use dos recursos do core ABAP<br>
+* Entenda como funciona o ferramentas de desenvolvimento SAP<br>
+* Desenvolva uma aplicação SAP<br>
+* Crie um relatório module pool utilizando a linguagem ABAP<br>
+* Entenda como implementar o recurso ALV<br>
+* Entenda como funciona os elementos gráficos Dynpro<br>
+* Conheça fluxo de desenvolvimento entre ambientes SAP<br>
 
 ## Conteúdo Detalhado
 
